@@ -1,0 +1,14 @@
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\bin\Debug\net8.0\VPNnaPHILIPS.exe
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\bin\Debug\net8.0\VPNnaPHILIPS.deps.json
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\bin\Debug\net8.0\VPNnaPHILIPS.runtimeconfig.json
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\bin\Debug\net8.0\VPNnaPHILIPS.dll
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\bin\Debug\net8.0\VPNnaPHILIPS.pdb
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.dll
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\refint\VPNnaPHILIPS.dll
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.pdb
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\VPNnaPHILIPS.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VPNnaPHILIPS\VPNnaPHILIPS\obj\Debug\net8.0\ref\VPNnaPHILIPS.dll

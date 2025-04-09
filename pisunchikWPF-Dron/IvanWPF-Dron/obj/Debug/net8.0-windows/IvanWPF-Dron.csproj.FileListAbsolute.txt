@@ -1,0 +1,38 @@
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron_MarkupCompile.cache
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.g.resources
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.AssemblyInfo.cs
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.exe
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.deps.json
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.runtimeconfig.json
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.dll
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.pdb
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.dll
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\refint\IvanWPF-Dron.dll
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.pdb
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.genruntimeconfig.cache
+C:\Users\Segor\Desktop\IvanWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\ref\IvanWPF-Dron.dll
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.exe
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.deps.json
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.runtimeconfig.json
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.dll
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\bin\Debug\net8.0-windows\IvanWPF-Dron.pdb
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\App.g.cs
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron_MarkupCompile.cache
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.g.resources
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.AssemblyInfoInputs.cache
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.AssemblyInfo.cs
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.csproj.CoreCompileInputs.cache
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.dll
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\refint\IvanWPF-Dron.dll
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.pdb
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\IvanWPF-Dron.genruntimeconfig.cache
+D:\Практика №11\pisunchikWPF-Dron\IvanWPF-Dron\obj\Debug\net8.0-windows\ref\IvanWPF-Dron.dll
